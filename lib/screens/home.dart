@@ -20,7 +20,7 @@ class Home extends StatelessWidget {
           physics: ScrollPhysics(),
           children: [
             Container(
-              height: 1080,
+              height: 960,
               child: Column(
                 children: [
                   Padding(
